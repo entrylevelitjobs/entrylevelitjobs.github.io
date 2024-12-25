@@ -13,4 +13,4 @@ Focus on demonstrating your impact, skills, and projects.
   
 Try different things, and see what people respond to
 
-Pretend you already work in IT, don't lie, but write your resume focusing on the IT type things you already do
+Pretend you already work in IT. Don't lie. Write your resume focusing on the IT type things you already do

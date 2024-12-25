@@ -2,6 +2,7 @@
 layout: page
 title: Newsletter
 permalink: /newsletter/
+nav_order: 2
 ---
 
 <div style="width: 100%; max-width: 800px; margin: auto; padding: 20px;">

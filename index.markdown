@@ -19,8 +19,9 @@ Resources to help you find an entry level IT job.
 
 ## Getting started
 {: .note }
-I'd suggest signing up for the weekly [News Letter](./newsletter/). Each week I'll send you a custom list of entry level IT jobs that you can apply to. 
-
+I'd suggest signing up for the weekly [News Letter](./newsletter/). 
+{: .note }
+Each week I'll send you a custom list of entry level IT jobs that you can apply to. 
 {: .note }
 Coming soon, there will be some articles and things.
 

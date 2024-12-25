@@ -48,39 +48,39 @@
     
     "relUrl": "/docs/articles/"
   },"7": {
-    "doc": "Resumes",
-    "title": "Applications",
-    "content": "Keep it simple in structure. Focus on demonstrating your impact, skills, and projects. Try different things, and see what people respond to . Pretend you already work in IT, don’t lie, write your resume focusing on the IT type things you already do . ",
-    "url": "/docs/articles/interviews%20copy.html#applications",
-    
-    "relUrl": "/docs/articles/interviews%20copy.html#applications"
-  },"8": {
-    "doc": "Resumes",
-    "title": "Resumes",
-    "content": " ",
-    "url": "/docs/articles/interviews%20copy.html",
-    
-    "relUrl": "/docs/articles/interviews%20copy.html"
-  },"9": {
     "doc": "Interviews",
     "title": "Applications",
     "content": "Don’t stress. Do as many as you can. You’ll get better over time. The more interviews you do, the better you will be at interviewing. ",
     "url": "/docs/articles/interviews.html#applications",
     
     "relUrl": "/docs/articles/interviews.html#applications"
-  },"10": {
+  },"8": {
     "doc": "Interviews",
     "title": "Interviews",
     "content": " ",
     "url": "/docs/articles/interviews.html",
     
     "relUrl": "/docs/articles/interviews.html"
-  },"11": {
+  },"9": {
     "doc": "Jobs Weekly",
     "title": "Jobs Weekly",
     "content": " ",
     "url": "/newsletter/",
     
     "relUrl": "/newsletter/"
+  },"10": {
+    "doc": "Resumes",
+    "title": "Applications",
+    "content": "Keep it simple in structure. Focus on demonstrating your impact, skills, and projects. Try different things, and see what people respond to . Pretend you already work in IT. Don’t lie. Write your resume focusing on the IT type things you already do . ",
+    "url": "/docs/articles/resumes.html#applications",
+    
+    "relUrl": "/docs/articles/resumes.html#applications"
+  },"11": {
+    "doc": "Resumes",
+    "title": "Resumes",
+    "content": " ",
+    "url": "/docs/articles/resumes.html",
+    
+    "relUrl": "/docs/articles/resumes.html"
   }
 }

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jobs Weekly
+title: Newsletter
 permalink: /newsletter/
 nav_order: 2
 ---

@@ -19,7 +19,7 @@ Resources to help you find an entry level IT job.
 
 ## Getting started
 {: .note }
-Take a look around. This is structured something like an internal company knowledge base
+Take a look around. This is structured similar to a companies internal knowledge base
 {: .note }
 You're probably someone with 0-2 years of exp looking for your first or next IT job.
 {: .note }

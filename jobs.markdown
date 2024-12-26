@@ -10,7 +10,7 @@ Start looking for jobs. Don't stop looking for jobs.
   
 If you don't understand a job posting, have a conversation with chatgpt about it
   
-Try searching with keywords like: Support, Help Desk, Junior, Assistant, Technician
+Try searching with keywords like: Support, Help Desk, Junior, Assistant, Technician, Intern
 
 ## Websites to Explore
 
@@ -44,7 +44,6 @@ Try searching with keywords like: Support, Help Desk, Junior, Assistant, Technic
 
 ## Newsletters and Communities
 
-- **Tech Jobs For Good Newsletter**
 - **Climate Tech Slack Groups**
 - [MCJ Collective](https://www.mcjcollective.com/members)
 - [Work on Climate](https://workonclimate.org)
@@ -53,3 +52,4 @@ Try searching with keywords like: Support, Help Desk, Junior, Assistant, Technic
 
 - [Terra.do](https://terra.do) (climate jobs)
 - [Climatebase](https://climatebase.org)
+- [Tech Jobs For Good](https://techjobsforgood.com/)

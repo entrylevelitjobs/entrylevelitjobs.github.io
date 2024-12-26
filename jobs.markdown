@@ -10,7 +10,7 @@ Start looking for jobs. Don't stop looking for jobs.
   
 If you don't understand a job posting, have a conversation with chatgpt about it
   
-Try searching with keywords like: Support, Help Desk, Junior, Assistant, Technician, Intern, QA
+Try searching with keywords like: Support, Help Desk, Junior, Assistant, Technician, Intern, QA, Administrator
 
 ## Websites to Explore
 

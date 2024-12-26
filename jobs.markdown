@@ -50,6 +50,6 @@ Try searching with keywords like: Support, Help Desk, Junior, Assistant, Technic
 
 ## Newsletters and Communities
 
-- **Climate Tech Slack Groups**
+### Climate Tech Slack Groups**
 - [MCJ Collective](https://www.mcjcollective.com/members)
 - [Work on Climate](https://workonclimate.org)

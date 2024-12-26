@@ -10,7 +10,7 @@ Start looking for jobs. Don't stop looking for jobs.
   
 If you don't understand a job posting, have a conversation with chatgpt about it
   
-Try searching with keywords like: Support, Help Desk, Junior, Assistant, Technician, Intern
+Try searching with keywords like: Support, Help Desk, Junior, Assistant, Technician, Intern, QA
 
 ## Websites to Explore
 
@@ -50,6 +50,6 @@ Try searching with keywords like: Support, Help Desk, Junior, Assistant, Technic
 
 ## Newsletters and Communities
 
-### Climate Tech Slack Groups**
-- [MCJ Collective](https://www.mcjcollective.com/members)
-- [Work on Climate](https://workonclimate.org)
+- Climate Tech Slack Groups
+  - [MCJ Collective](https://www.mcjcollective.com/members)
+  - [Work on Climate](https://workonclimate.org)

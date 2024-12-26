@@ -41,7 +41,7 @@ Try searching with keywords like: Support, Help Desk, Junior, Assistant, Technic
 
 ## Climate-Specific Job Boards
 
-- [Terra.do](https://terra.do) (climate jobs)
+- [Terra.do](https://terra.do)
 - [Climatebase](https://climatebase.org)
 - [Tech Jobs For Good](https://techjobsforgood.com/)
 
@@ -53,3 +53,7 @@ Try searching with keywords like: Support, Help Desk, Junior, Assistant, Technic
 - Climate Tech Slack Groups
   - [MCJ Collective](https://www.mcjcollective.com/members)
   - [Work on Climate](https://workonclimate.org)
+
+## Other Resources
+- Look around for listings with local comapnies and organizations, check out their jobs or careers page.
+- Maybe try some government programs like Americorps

@@ -22,7 +22,7 @@
   },"3": {
     "doc": "Home",
     "title": "Getting started",
-    "content": "Take a look around. This is structured similar to an internal company knowledge base . You’re probably someone with 0-2 years of exp looking for your first or next IT job. Coming soon, there will be some articles and things. ",
+    "content": "Take a look around. This is structured similar to a companies internal knowledge base . You’re probably someone with 0-2 years of exp looking for your first or next IT job. Coming soon, there will be some articles and things. ",
     "url": "/#getting-started",
     
     "relUrl": "/#getting-started"
@@ -78,7 +78,7 @@
   },"11": {
     "doc": "Jobs",
     "title": "Climate-Specific Job Boards",
-    "content": ". | Terra.do (climate jobs) | Climatebase | Tech Jobs For Good | . ",
+    "content": ". | Terra.do | Climatebase | Tech Jobs For Good | . ",
     "url": "/jobs/#climate-specific-job-boards",
     
     "relUrl": "/jobs/#climate-specific-job-boards"
@@ -98,19 +98,26 @@
     "relUrl": "/jobs/#newsletters-and-communities"
   },"14": {
     "doc": "Jobs",
+    "title": "Other Resources",
+    "content": ". | Look around for listings with local comapnies and organizations, check out their jobs or careers page. | Maybe try some government programs like Americorps | . ",
+    "url": "/jobs/#other-resources",
+    
+    "relUrl": "/jobs/#other-resources"
+  },"15": {
+    "doc": "Jobs",
     "title": "Jobs",
     "content": " ",
     "url": "/jobs/",
     
     "relUrl": "/jobs/"
-  },"15": {
+  },"16": {
     "doc": "Newsletter",
     "title": "Newsletter",
     "content": " ",
     "url": "/newsletter/",
     
     "relUrl": "/newsletter/"
-  },"16": {
+  },"17": {
     "doc": "Resumes",
     "title": "Resumes",
     "content": "Keep it simple in structure. Focus on demonstrating your impact, skills, and projects. Try different things, and see what people respond to . Pretend you already work in IT. Don’t lie. Write your resume focusing on the IT type things you already do . ",

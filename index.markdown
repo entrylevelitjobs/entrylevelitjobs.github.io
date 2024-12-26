@@ -19,9 +19,9 @@ Resources to help you find an entry level IT job.
 
 ## Getting started
 {: .note }
-I'd suggest signing up for the weekly [News Letter](./newsletter/). 
+Take a look around. This is structured something like an internal company knowledge base
 {: .note }
-Each week I'll send you a custom list of entry level IT jobs that you can apply to. 
+You're probably someone with 0-2 years of exp looking for your first or next IT job.
 {: .note }
 Coming soon, there will be some articles and things.
 

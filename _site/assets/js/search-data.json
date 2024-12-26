@@ -77,25 +77,25 @@
     "relUrl": "/jobs/#additional-resources-for-entry-level-it-jobs"
   },"11": {
     "doc": "Jobs",
+    "title": "Climate-Specific Job Boards",
+    "content": ". | Terra.do (climate jobs) | Climatebase | Tech Jobs For Good | . ",
+    "url": "/jobs/#climate-specific-job-boards",
+    
+    "relUrl": "/jobs/#climate-specific-job-boards"
+  },"12": {
+    "doc": "Jobs",
     "title": "Networking and Career Development Resources",
     "content": ". | Meetup – Local tech groups and events, including job-hunting groups and IT meetups. | . ",
     "url": "/jobs/#networking-and-career-development-resources",
     
     "relUrl": "/jobs/#networking-and-career-development-resources"
-  },"12": {
+  },"13": {
     "doc": "Jobs",
     "title": "Newsletters and Communities",
-    "content": ". | Tech Jobs For Good Newsletter | Climate Tech Slack Groups | MCJ Collective | Work on Climate | . ",
+    "content": ". | Climate Tech Slack Groups | MCJ Collective | Work on Climate | . ",
     "url": "/jobs/#newsletters-and-communities",
     
     "relUrl": "/jobs/#newsletters-and-communities"
-  },"13": {
-    "doc": "Jobs",
-    "title": "Climate-Specific Job Boards",
-    "content": ". | Terra.do (climate jobs) | Climatebase | . ",
-    "url": "/jobs/#climate-specific-job-boards",
-    
-    "relUrl": "/jobs/#climate-specific-job-boards"
   },"14": {
     "doc": "Jobs",
     "title": "Jobs",

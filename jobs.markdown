@@ -39,6 +39,12 @@ Try searching with keywords like: Support, Help Desk, Junior, Assistant, Technic
 - [SimplyHired](https://www.simplyhired.com) – Another general job board that often includes IT job opportunities.
 - [The Muse](https://www.themuse.com) – Includes entry-level tech roles, often at large, innovative companies.
 
+## Climate-Specific Job Boards
+
+- [Terra.do](https://terra.do) (climate jobs)
+- [Climatebase](https://climatebase.org)
+- [Tech Jobs For Good](https://techjobsforgood.com/)
+
 ## Networking and Career Development Resources
 - [Meetup](https://www.meetup.com) – Local tech groups and events, including job-hunting groups and IT meetups.
 
@@ -47,9 +53,3 @@ Try searching with keywords like: Support, Help Desk, Junior, Assistant, Technic
 - **Climate Tech Slack Groups**
 - [MCJ Collective](https://www.mcjcollective.com/members)
 - [Work on Climate](https://workonclimate.org)
-
-## Climate-Specific Job Boards
-
-- [Terra.do](https://terra.do) (climate jobs)
-- [Climatebase](https://climatebase.org)
-- [Tech Jobs For Good](https://techjobsforgood.com/)

@@ -55,25 +55,67 @@
     
     "relUrl": "/docs/articles/interviews.html"
   },"8": {
+    "doc": "Jobs",
+    "title": "Resources for Job Searching",
+    "content": "Start looking for jobs. Don’t stop looking for jobs. If you don’t understand a job posting, have a conversation with chatgpt about it . Try searching with keywords like: Support, Help Desk, Junior, Assistant . ",
+    "url": "/jobs/#resources-for-job-searching",
+    
+    "relUrl": "/jobs/#resources-for-job-searching"
+  },"9": {
+    "doc": "Jobs",
+    "title": "Websites to Explore",
+    "content": ". | 4dayworkweek.io | We Work Remotely | Wellfound | Dynamite Jobs | 80,000 Hours Job Board | Fast Forward Jobs | LinkedIn | Indeed | Google Jobs | Juju | Craigslist | Dice | Stack Overflow Jobs | . ",
+    "url": "/jobs/#websites-to-explore",
+    
+    "relUrl": "/jobs/#websites-to-explore"
+  },"10": {
+    "doc": "Jobs",
+    "title": "Additional Resources for Entry-Level IT Jobs",
+    "content": ". | AngelList – Tech startup jobs, often including entry-level positions. | TechCareers – Focused on IT and tech positions, including entry-level roles. | Glassdoor – Job listings with company reviews, often with entry-level IT jobs. | Remote OK – Focuses on remote jobs, including IT roles. | ZipRecruiter – A general job board with plenty of IT and tech roles, including entry-level positions. | SimplyHired – Another general job board that often includes IT job opportunities. | The Muse – Includes entry-level tech roles, often at large, innovative companies. | . ",
+    "url": "/jobs/#additional-resources-for-entry-level-it-jobs",
+    
+    "relUrl": "/jobs/#additional-resources-for-entry-level-it-jobs"
+  },"11": {
+    "doc": "Jobs",
+    "title": "Networking and Career Development Resources",
+    "content": ". | Meetup – Local tech groups and events, including job-hunting groups and IT meetups. | . ",
+    "url": "/jobs/#networking-and-career-development-resources",
+    
+    "relUrl": "/jobs/#networking-and-career-development-resources"
+  },"12": {
+    "doc": "Jobs",
+    "title": "Newsletters and Communities",
+    "content": ". | Tech Jobs For Good Newsletter | Climate Tech Slack Groups | MCJ Collective | Work on Climate | . ",
+    "url": "/jobs/#newsletters-and-communities",
+    
+    "relUrl": "/jobs/#newsletters-and-communities"
+  },"13": {
+    "doc": "Jobs",
+    "title": "Climate-Specific Job Boards",
+    "content": ". | Terra.do (climate jobs) | Climatebase | . ",
+    "url": "/jobs/#climate-specific-job-boards",
+    
+    "relUrl": "/jobs/#climate-specific-job-boards"
+  },"14": {
+    "doc": "Jobs",
+    "title": "Jobs",
+    "content": " ",
+    "url": "/jobs/",
+    
+    "relUrl": "/jobs/"
+  },"15": {
     "doc": "Newsletter",
     "title": "Newsletter",
     "content": " ",
     "url": "/newsletter/",
     
     "relUrl": "/newsletter/"
-  },"9": {
+  },"16": {
     "doc": "Resumes",
     "title": "Resumes",
     "content": "Keep it simple in structure. Focus on demonstrating your impact, skills, and projects. Try different things, and see what people respond to . Pretend you already work in IT. Don’t lie. Write your resume focusing on the IT type things you already do . ",
     "url": "/docs/articles/resumes.html",
     
     "relUrl": "/docs/articles/resumes.html"
-  },"10": {
-    "doc": "Resources for Job Searching",
-    "title": "Resources for Job Searching",
-    "content": "# Resources for Job Searching ## Websites to Explore - [4dayworkweek.io](https://4dayworkweek.io) - [We Work Remotely](https://weworkremotely.com) - [Wellfound](https://wellfound.com) - [Dynamite Jobs](https://dynamitejobs.com) - [80,000 Hours Job Board](https://jobs.80000hours.org/?query=Software) - [Fast Forward Jobs](https://jobs.ffwd.org/jobs) - [LinkedIn](https://linkedin.com) - [Indeed](https://indeed.com) - [Google Jobs](https://www.google.com/search?q=google+jobs) - [Juju](https://www.juju.com/) - [Craigslist](https://craigslist.org) - [Dice](https://dice.com) ## Additional Resources for Entry-Level IT Jobs - [AngelList](https://angel.co/jobs) – Tech startup jobs, often including entry-level positions. - [TechCareers](https://www.techcareers.com) – Focused on IT and tech positions, including entry-level roles. - [Glassdoor](https://www.glassdoor.com) – Job listings with company reviews, often with entry-level IT jobs. - [Remote OK](https://remoteok.io) – Focuses on remote jobs, including IT roles. - [ZipRecruiter](https://www.ziprecruiter.com) – A general job board with plenty of IT and tech roles, including entry-level positions. - [SimplyHired](https://www.simplyhired.com) – Another general job board that often includes IT job opportunities. - [The Muse](https://www.themuse.com) – Includes entry-level tech roles, often at large, innovative companies. ## Networking and Career Development Resources - [Meetup](https://www.meetup.com) – Local tech groups and events, including job-hunting groups and IT meetups. - [Stack Overflow Jobs](https://stackoverflow.com/jobs) – A job board from Stack Overflow, many of which are for developers, with entry-level options. - [Women Who Code](https://www.womenwhocode.com) – Network for women in tech, offering resources and job boards, often including entry-level positions. ## Newsletters and Communities - **Tech Jobs For Good Newsletter** - **Climate Tech Slack Groups** - [MCJ Collective](https://www.mcjcollective.com/members) - [Work on Climate](https://workonclimate.org) ## Climate-Specific Job Boards - [Terra.do](https://terra.do) (climate jobs) - [Climatebase](https://climatebase.org) ",
-    "url": "/jobs.html",
-    
-    "relUrl": "/jobs.html"
   }
 }

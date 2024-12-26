@@ -1,4 +1,16 @@
+---
+layout: page
+title: Jobs
+permalink: /jobs/
+nav_order: 2
+---
+
 # Resources for Job Searching
+Start looking for jobs. Don't stop looking for jobs. 
+  
+If you don't understand a job posting, have a conversation with chatgpt about it
+  
+Try searching with keywords like: Support, Help Desk, Junior, Assistant, Technician
 
 ## Websites to Explore
 
@@ -14,6 +26,8 @@
 - [Juju](https://www.juju.com/)
 - [Craigslist](https://craigslist.org)
 - [Dice](https://dice.com)
+- [Stack Overflow Jobs](https://stackoverflow.com/jobs)
+
 
 ## Additional Resources for Entry-Level IT Jobs
 
@@ -26,10 +40,7 @@
 - [The Muse](https://www.themuse.com) – Includes entry-level tech roles, often at large, innovative companies.
 
 ## Networking and Career Development Resources
-
 - [Meetup](https://www.meetup.com) – Local tech groups and events, including job-hunting groups and IT meetups.
-- [Stack Overflow Jobs](https://stackoverflow.com/jobs) – A job board from Stack Overflow, many of which are for developers, with entry-level options.
-- [Women Who Code](https://www.womenwhocode.com) – Network for women in tech, offering resources and job boards, often including entry-level positions.
 
 ## Newsletters and Communities
 

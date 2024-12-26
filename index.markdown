@@ -27,5 +27,5 @@ Coming soon, there will be some articles and things.
 
 ## About the project
 
-Entry Level Tech Jobs.us is &copy; AGPLv3 2024-{{ "now" | date: "%Y" }} by [Brian Borncamp](https://borncamp.github.io){:target="_blank"}
+Entry Level IT Jobs.us is &copy; AGPLv3 2024-{{ "now" | date: "%Y" }} by [Brian Borncamp](https://borncamp.github.io){:target="_blank"}
 
